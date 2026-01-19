@@ -39,6 +39,6 @@ The model is based on the Pix2Pix framework with a generator-discriminator archi
 
 ## Clone the repository:
    ```bash
-   git clone https://github.com/anandjohnbaby/Face-Reconstruction-from-sketches.git
+   git clone https://github.com/aiswaryabiju30/Face-Reconstruction-from-sketches.git
    ```
 
