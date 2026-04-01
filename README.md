@@ -4,10 +4,7 @@
 
 
 ## Overview
-This project converts hand-drawn face sketches into realistic human face images using deep learning.
-
-A Pix2Pix (Conditional GAN) model is trained on paired sketch–photo images.  
-GFPGAN is used as a post-processing step to enhance facial details and image quality.
+This project focuses on reconstructing realistic human face images from sketches using deep learning techniques. A Conditional GAN (Pix2Pix) model is trained on paired sketch-to-real face images to achieve high-quality reconstructions. Additionally, the GFPGAN model is used to enhance the quality of the generated images, refining details and improving realism.
 
 ## Dataset
 - **Dataset:** CUFS (Chinese University of Hong Kong Face Sketch Dataset)
