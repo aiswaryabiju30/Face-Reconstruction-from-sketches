@@ -1,5 +1,7 @@
 # Face Reconstruction from Sketches
 
+![Project Image](6226711765064552405_121.jpg)
+
 ## Overview
 This project converts hand-drawn face sketches into realistic human face images using deep learning.
 
